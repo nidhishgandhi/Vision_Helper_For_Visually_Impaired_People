@@ -1,0 +1,8 @@
+0 Animal
+1 Electronic
+2 Food
+3 Furniture
+4 Others
+5 Person
+6 vehicle
+7 Obstacle

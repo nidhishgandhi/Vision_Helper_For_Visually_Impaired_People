@@ -1,0 +1,7 @@
+0 vehicle
+1 food
+2 person
+3 furniture
+4 obstacles
+5 other
+6 animals
